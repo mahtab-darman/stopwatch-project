@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.counter{
+    width: 50%;
+    height: auto;
+    border: 4px solid purple;
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+    margin: 100px auto;
+}
+
+#count_up_timer{
+    color: white;
+    font-size: 70px;
+    margin-bottom: 40px;
+}
+.counter button{
+    padding: 15px 30px;
+    margin: 0 20px;
+    border-radius: 10px;
+
+}
+/* .counter #reset{
+    background-color: aqua;
+    display: none;
+} */
+
+#lap{
+    margin: 20px;
+    color:white;
+}
